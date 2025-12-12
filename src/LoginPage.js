@@ -53,6 +53,7 @@ const LoginPage = () => {
           style={styles.input}
         />
 <input/>
+<input type="text"/>
         <button type="submit" style={styles.button} disabled={loading}>
           {loading ? "Logging in..." : "Login"}
         </button>
