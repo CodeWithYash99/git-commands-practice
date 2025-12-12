@@ -52,7 +52,7 @@ const LoginPage = () => {
           onChange={(e) => setPassword(e.target.value)}
           style={styles.input}
         />
-
+<input/>
         <button type="submit" style={styles.button} disabled={loading}>
           {loading ? "Logging in..." : "Login"}
         </button>
