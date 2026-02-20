@@ -78,6 +78,11 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      <div className="">
+        <button className="">BUTTON - 1</button>
+        <button className="">BUTTON - 2</button>
+      </div>
     </div>
   );
 }
