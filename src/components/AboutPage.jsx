@@ -5,6 +5,8 @@ export default function AboutPage() {
   return (
     <div className="about-container">
       <div className="about-header">
+        <h2>About tyhe user</h2>
+        <button> outForm</button>
         <h1>About Us</h1>
         <p className="tagline">Building amazing web experiences</p>
       </div>
